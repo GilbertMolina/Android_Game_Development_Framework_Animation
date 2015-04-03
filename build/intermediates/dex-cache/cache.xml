@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gmolina/Documents/AndroidStudioProjects/Android_Game_Development_Framework_Animation_Propio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/gmolina/Documents/AndroidStudioProjects/Android_Game_Development_Framework_Animation_Propio/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-312646b145b42e4019b409adaa43357bf2b61824.jar" />
+    </item>
+    <item
+        jar="/Users/gmolina/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/gmolina/Documents/AndroidStudioProjects/Android_Game_Development_Framework_Animation_Propio/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-2da092f3acba4ff165b8ff5d4ff100db15b5ece8.jar" />
+    </item>
+    <item
+        jar="/Users/gmolina/Documents/AndroidStudioProjects/Android_Game_Development_Framework_Animation_Propio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/gmolina/Documents/AndroidStudioProjects/Android_Game_Development_Framework_Animation_Propio/app/build/intermediates/pre-dexed/debug/classes-6db75db3f6ab90138758d21cbf40d297f0ed13e6.jar" />
+    </item>
+    <item
+        jar="/Users/gmolina/Documents/AndroidStudioProjects/Android_Game_Development_Framework_Animation_Propio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/gmolina/Documents/AndroidStudioProjects/Android_Game_Development_Framework_Animation_Propio/app/build/intermediates/pre-dexed/debug/classes-1f094c380cf8b623f2a94e5123351c29a30b585e.jar" />
+    </item>
+
+</items>

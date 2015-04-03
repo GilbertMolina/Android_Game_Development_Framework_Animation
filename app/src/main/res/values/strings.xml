@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Game Development Framework</string>
+
+    <string name="action_settings">Opciones</string>
+    <string name="title_activity_game_main">GameMainActivity</string>
+    <string name="title_activity_game_view">GameView</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
